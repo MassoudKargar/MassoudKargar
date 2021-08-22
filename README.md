@@ -4,10 +4,10 @@
  <a href="https://twitter.com/intent/follow?screen_name=mjebrahimi72" alt="Follow on Twitter">
    <img src="https://img.shields.io/badge/-@mjebrahimi72-00acee?style=flat&logo=Twitter&logoColor=white" />
  </a>
- <a href="https://www.linkedin.com/in/mjebrahimi/" alt="Connect on LinkedIn">
+ <a href="https://www.linkedin.com/in/massoud-kargar-531597202/" alt="Connect on LinkedIn">
    <img src="https://img.shields.io/badge/-mjebrahimi-0072b1?style=flat&logo=Linkedin&logoColor=white" />
  </a>
- <a href="mailto:mj.ebrahimi72@gmail.com" alt="Gmail">
+ <a href="mailto:MassoudKargar.Web@gmail.com" alt="Gmail">
    <img src="https://img.shields.io/badge/-mj.ebrahimi72@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white" />
  </a>
  <a href="https://t.me/mjebrahimi" alt="Contact on Telegram">
@@ -19,7 +19,7 @@
 
 - 🔭 A .NET Backend Developer / Software Architect • Consultant • Blogger • DDD & Microservices Enthusiast.
 - 💬 Ask me about Clean Architecture, MicroServices, DDD, and .NET Core
-- 📫 Follow me on Twitter [@mjebrahimi72](https://twitter.com/intent/follow?screen_name=mjebrahimi72) and Linkedin [@mjebrahimi](https://www.linkedin.com/in/mjebrahimi/)
+- 📫 Follow me on Twitter [@mjebrahimi72](https://twitter.com/intent/follow?screen_name=mjebrahimi72) and Linkedin [@mjebrahimi](https://www.linkedin.com/in/massoud-kargar-531597202/)
 <!-- - 👯 I’m looking to collaborate on: ... -->
 
  ---
