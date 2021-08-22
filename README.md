@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Massoud Kargar👋</h1>
-
+<!--
 <p align="center"> 
  <a href="https://twitter.com/intent/follow?screen_name=mjebrahimi72" alt="Follow on Twitter">
    <img src="https://img.shields.io/badge/-@mjebrahimi72-00acee?style=flat&logo=Twitter&logoColor=white" />
@@ -20,6 +20,9 @@
 - 🔭 A .NET Backend Developer / Software Architect • Consultant • Blogger • DDD & Microservices Enthusiast.
 - 💬 Ask me about Clean Architecture, MicroServices, DDD, and .NET Core
 - 📫 Follow me on Twitter [@mjebrahimi72](https://twitter.com/intent/follow?screen_name=mjebrahimi72) and Linkedin [@mjebrahimi](https://www.linkedin.com/in/massoud-kargar-531597202/)
+- 
+--- -->
+
 <!-- - 👯 I’m looking to collaborate on: ... -->
 
  ---
@@ -85,8 +88,8 @@
 </p>
 <br/>
 
---- -->
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mjebrahimi&show_icons=true&count_private=true&include_all_commits=true" />
 </p>
+
+--- -->
