@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Massoud Kargar👋</h1>
 <p align="center"> 
  <a href="https://twitter.com/intent/follow?screen_name=mjebrahimi72" alt="Follow on Twitter">
-   <img src="https://img.shields.io/static/v1?label=LinkedIn&message=Massoud%20Kargar&color=%3Cgreen%3E" />
+   <img src="https://www.linkedin.com/feed/?trk=nav_logo" />
   </a>
  <a href="https://www.linkedin.com/in/massoud-kargar-531597202/" alt="Connect on LinkedIn">
    <img src="https://img.shields.io/codacy/grade/Massoud%20Kargar?style=plastic" />
