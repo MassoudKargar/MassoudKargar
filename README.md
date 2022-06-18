@@ -35,12 +35,12 @@
 
 </br>
 
-<p align="center">
+<!-- <p align="center">
  <a href="#" alt="MassoudKargar github stats">
   <img src="https://github-readme-stats.vercel.app/api?username=MassoudKargar&theme=tokyonight&show_icons=true" />
  </a>
 </p>
-
+ -->
 <p align="center">
  <a href="https://www.buymeacoffee.com/masoudkargar" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="61" width="194" />
