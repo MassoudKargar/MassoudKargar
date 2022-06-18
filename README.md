@@ -48,13 +48,7 @@
 </p>
 
 <p align="center">
-<h2>📉 Github Status</h2>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MassoudKargar&show_icons=true&locale=en&layout=compact&theme=algolia" alt="MassoudKargar"  />
+ <a href="#" alt="MassoudKargar github stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MassoudKargar&layout=compact&theme=radical" alt="MassoudKargar"  />
+ </a>
 </p>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MassoudKargar&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MassoudKargar&repo=convoychat" />
-</a>
