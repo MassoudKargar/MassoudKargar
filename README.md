@@ -49,5 +49,5 @@
 
 <p align="center">
 <h2>📉 Github Status</h2>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MassoudKargar&show_icons=true&locale=en&layout=compact&theme=algolia" alt="MassoudKargar" height="242px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MassoudKargar&show_icons=true&locale=en&layout=compact&theme=algolia" alt="MassoudKargar"  />
 </p>
