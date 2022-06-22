@@ -47,8 +47,8 @@
  </a>
 </p>
  -->
-<p align="center">
+<!-- <p align="center">
  <a href="#" alt="MassoudKargar github stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MassoudKargar&layout=compact&theme=radical" style="height: 212px;" alt="MassoudKargar"  />
  </a>
-</p>
+</p> -->
