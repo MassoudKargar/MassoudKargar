@@ -28,7 +28,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" alt="angular" width="40" height="40" />
 </p>
 
-- 📃 I blog here: http://massoudkargar.ir/
+- 📃 I blog here: https://massoudkargar.ir/
 - 💬 Ask me about: .NET, clean-architecture, micro-services, API, .NET CORE, MVC, DDD, CQRS, event-sourcing
 - 👯 I’m looking to collaborate on: .NET projects
 - 👾 Follow my programming channel on Telegram: [@ProgrammingTip](https://t.me/MasoudDeveloper)
