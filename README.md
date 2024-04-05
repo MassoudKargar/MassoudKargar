@@ -3,7 +3,7 @@
 </br>
 
 <p align="center">
- <a href="https://www.linkedin.com/in/massoud-kargar-531597202/" target="_blank">
+ <a href="https://www.linkedin.com/in/masoudkargar/" target="_blank">
   <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
  </a>
   
