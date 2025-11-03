@@ -1,27 +1,29 @@
+<!--
+README.md — GitHub Profile for Massoud Kargar
+-->
+
 <h1 align="center">Hi there, I'm Masoud Kargar 👋</h1>
 
 <p align="center">
- <a href="https://www.linkedin.com/in/masoud-kargar-531597202/" target="_blank">
-  <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="linkedin" />
- </a>
- <a href="https://twitter.com/MasoudKargar_" target="_blank">
-  <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="twitter" />
- </a>
- <a href="https://t.me/MasoudDeveloper" target="_blank">
-  <img src="https://img.icons8.com/fluent/48/000000/telegram-app.png" alt="telegram" />
- </a>
+  <a href="https://www.linkedin.com/in/masoud-kargar-531597202/" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/MasoudKargar_" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter"/>
+  </a>
+  <a href="https://t.me/MasoudDeveloper" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/telegram-app.png" alt="Telegram"/>
+  </a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-Hi! I'm **Masoud Kargar**, a passionate **Software Engineer** specializing in backend development using the **.NET ecosystem**.  
-I love working with **clean architectures, distributed systems, and microservices**.  
-With over 5 years of experience, I’ve built reliable and scalable backend systems for enterprise-grade applications.  
-I enjoy learning new technologies and contributing to open-source projects.  
-
-💡 Always exploring **Cloud, DevOps, Web3, and Software Architecture** concepts.
+Hi! I’m **Massoud Kargar**, a passionate **Software Engineer** specializing in backend development with the **.NET ecosystem**.  
+With over 5 years of experience, I’ve built scalable, high-performance backend systems, working with architecture, microservices, and messaging technologies.  
+I have a deep interest in Clean Architecture, event-driven systems and continual learning in Cloud & DevOps domains.  
+I enjoy collaborating in teams that value creativity, growth and shared success.
 
 ---
 
@@ -43,44 +45,37 @@ I enjoy learning new technologies and contributing to open-source projects.
 
 ### ⚙️ What I Work With
 
-- 🧩 **.NET, C#, EF Core, Dapper, CQRS, Clean Architecture**  
-- 🔗 **RabbitMQ, Kafka, Redis, Microservices**  
-- 🧰 **Docker, Kubernetes, ELK Stack**  
-- 🗄️ **SQL Server, PostgreSQL**  
-- 🌐 **Blazor, Web3, Rust (Learning)**  
+- **Backend / Architecture**: .NET Core, C#, EF Core, Dapper, CQRS, Clean Architecture  
+- **Messaging / Systems**: RabbitMQ, Kafka, Redis, Microservices  
+- **DevOps / Cloud**: Docker, Kubernetes, ELK Stack  
+- **Databases**: SQL Server, PostgreSQL  
+- **Other Interests**: Blazor, Web3, Rust (learning)
 
 ---
 
 ### 📝 Blogs & Links
 
-- 📃 Blog: [massoudkargar.ir](https://massoudkargar.ir/)
-- 💬 Ask me about: `.NET`, `Clean Architecture`, `Microservices`, `DDD`, `CQRS`, `API Design`
-- 👾 Telegram Channel: [@MasoudDeveloper](https://t.me/MasoudDeveloper)
-- 👯 I’m open to collaborate on: `.NET` and `Microservices` projects
+- 📃 Blog: [massoudkargar.ir](https://massoudkargar.ir/)  
+- 💬 Ask me about: `.NET`, `Clean Architecture`, `Microservices`, `DDD`, `CQRS`, `API Design`  
+- 👾 Telegram Channel: [@MasoudDeveloper](https://t.me/MasoudDeveloper)  
+- 👯 Open to collaborate on: `.NET` and Microservices projects
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
- <a href="https://github.com/MassoudKargar">
-  <img src="https://github-readme-stats.vercel.app/api?username=MassoudKargar&theme=tokyonight&show_icons=true" alt="GitHub Stats" />
- </a>
+  <a href="https://github.com/MassoudKargar">
+    <img src="https://github-readme-stats.vercel.app/api?username=MassoudKargar&theme=tokyonight&show_icons=true" alt="GitHub Stats"/>
+  </a>
 </p>
 
 ---
 
-### ☕ Support
-
-<p align="center">
- <a href="https://www.buymeacoffee.com/masoudkargar" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="61" width="194" alt="Buy Me A Coffee"/>
- </a>
-</p>
-
 ### 📄 Resume
 
-You can download my latest resumes here:
-
-- [English Resume (PDF)](https://github.com/MassoudKargar/resume/MassoudKargar-Resume-EN.pdf)
+You can download my latest resumes here:  
+- [English Resume (PDF)](https://github.com/MassoudKargar/resume/MassoudKargar-Resume-EN.pdf)  
 - [رزومه فارسی (PDF)](https://github.com/MassoudKargar/resume/MassoudKargar-Resume-FA.pdf)
+
+<!-- End of README -->
