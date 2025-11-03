@@ -75,7 +75,7 @@ I enjoy collaborating in teams that value creativity, growth and shared success.
 ### 📄 Resume
 
 You can download my latest resumes here:  
-- [English Resume (PDF)](https://github.com/MassoudKargar/resume/MassoudKargar-Resume-EN.pdf)  
+- [English Resume (PDF)](https://github.com/MassoudKargar/MassoudKargar/blob/11c8af19f4d1c82d8a1e381472b17e3c9e160cfd/Massoud%20Kargar%20Resume_En.pdf)  
 - [رزومه فارسی (PDF)](https://github.com/MassoudKargar/resume/MassoudKargar-Resume-FA.pdf)
 
 <!-- End of README -->
