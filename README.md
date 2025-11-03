@@ -77,3 +77,10 @@ I enjoy learning new technologies and contributing to open-source projects.
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="61" width="194" alt="Buy Me A Coffee"/>
  </a>
 </p>
+
+### 📄 Resume
+
+You can download my latest resumes here:
+
+- [English Resume (PDF)](https://github.com/MassoudKargar/resume/MassoudKargar-Resume-EN.pdf)
+- [رزومه فارسی (PDF)](https://github.com/MassoudKargar/resume/MassoudKargar-Resume-FA.pdf)
