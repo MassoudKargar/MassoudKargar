@@ -11,7 +11,7 @@ README.md — GitHub Profile for Massoud Kargar
   <a href="https://twitter.com/MasoudKargar_" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter"/>
   </a>
-  <a href="https://t.me/MasoudDeveloper" target="_blank">
+  <a href="https://t.me/Masoud_kargar" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/telegram-app.png" alt="Telegram"/>
   </a>
 </p>
