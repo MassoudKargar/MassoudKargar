@@ -5,7 +5,7 @@ README.md — GitHub Profile for Massoud Kargar
 <h1 align="center">Hi there, I'm Masoud Kargar 👋</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/masoud-kargar-531597202/" target="_blank">
+  <a href="https://www.linkedin.com/in/massoudkargar" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/MasoudKargar_" target="_blank">
@@ -20,45 +20,70 @@ README.md — GitHub Profile for Massoud Kargar
 
 ### 👨‍💻 About Me
 
-Hi! I’m **Massoud Kargar**, a passionate **Software Engineer** specializing in backend development with the **.NET ecosystem**.  
-With over 5 years of experience, I’ve built scalable, high-performance backend systems, working with architecture, microservices, and messaging technologies.  
-I have a deep interest in Clean Architecture, event-driven systems and continual learning in Cloud & DevOps domains.  
-I enjoy collaborating in teams that value creativity, growth and shared success.
+Hi! I’m **Massoud Kargar**, a passionate **.NET Backend Developer** with more than **6 years of experience**
+in building scalable, distributed and high-performance backend systems.
+
+I specialize in:
+
+- **Microservices & Distributed Systems**
+- **Clean Architecture & CQRS**
+- **Multi-Tenant API Design**
+- **Event-Driven Architecture**
+- **SQL Performance Optimization**
+- **Messaging Systems (RabbitMQ, Kafka)**
+- **Keycloak Authentication & Security**
+- **Blockchain Development (Smart Contracts, Digital Wallets & Solidity)**
+
+I enjoy working in teams that value quality, creativity, and continuous improvement.  
+I’m always learning and always building.
 
 ---
 
 ### 🧠 Professional Skills
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" alt="Angular" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" width="45" height="45"/>
 </p>
 
 ---
 
 ### ⚙️ What I Work With
 
-- **Backend / Architecture**: .NET Core, C#, EF Core, Dapper, CQRS, Clean Architecture  
-- **Messaging / Systems**: RabbitMQ, Kafka, Redis, Microservices  
-- **DevOps / Cloud**: Docker, Kubernetes, ELK Stack  
-- **Databases**: SQL Server, PostgreSQL  
-- **Other Interests**: Blazor, Web3, Rust (learning)
+- **Backend / Architecture**  
+  C#, ASP.NET Core, EF Core, Dapper, Clean Architecture, CQRS, DDD
+
+- **Distributed Systems / Messaging**  
+  Microservices, RabbitMQ, Kafka, CAP, EMQX, MQTT
+
+- **Databases / Performance**  
+  SQL Server, PostgreSQL, Redis, MongoDB  
+  Query Optimization, Stored Procedures, Performance Tuning
+
+- **DevOps / Cloud**  
+  Docker, Kubernetes (Basic), GitHub Actions, ELK Stack
+
+- **Security / Identity**  
+  Keycloak, JWT, OAuth2, Authentication & Authorization
+
+- **Blockchain Development**  
+  Smart Contracts, Solidity, Digital Wallet Systems
 
 ---
 
 ### 📝 Blogs & Links
 
-- 📃 Blog: [massoudkargar.ir](https://massoudkargar.ir/)  
-- 💬 Ask me about: `.NET`, `Clean Architecture`, `Microservices`, `DDD`, `CQRS`, `API Design`  
-- 👾 Telegram Channel: [@MasoudDeveloper](https://t.me/MasoudDeveloper)  
-- 👯 Open to collaborate on: `.NET` and Microservices projects
+- 📃 Blog: **https://massoudkargar.ir**
+- 💬 Ask me about: `.NET`, `Microservices`, `Clean Architecture`, `CQRS`, `DDD`, `API Design`
+- 👾 Telegram Channel: **@MasoudDeveloper**
+- 👯 Open to collaborate on: `.NET` & Microservices projects
 
 ---
 
@@ -74,8 +99,18 @@ I enjoy collaborating in teams that value creativity, growth and shared success.
 
 ### 📄 Resume
 
-You can download my latest resumes here:  
-- [English Resume (PDF)](https://github.com/MassoudKargar/MassoudKargar/blob/11c8af19f4d1c82d8a1e381472b17e3c9e160cfd/Massoud%20Kargar%20Resume_En.pdf)  
-- [رزومه فارسی (PDF)](https://github.com/MassoudKargar/resume/MassoudKargar-Resume-FA.pdf)
+You can download my latest resumes here:
+
+- **English Resume (Modern PDF)**  
+  👉 *Upload your new PDF here and paste the link*
+
+- **رزومه فارسی (PDF نسخه مدرن)**  
+  👉 *Upload new FA PDF and paste link*
+
+---
+
+<p align="center">
+  <b>⭐ If you like my work, feel free to star the repositories!</b>
+</p>
 
 <!-- End of README -->
