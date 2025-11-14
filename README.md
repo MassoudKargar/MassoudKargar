@@ -102,9 +102,9 @@ I’m always learning and always building.
 You can download my latest resumes here:
 
 - **English Resume (Modern PDF)**
-  👉 <a href="https://raw.githubusercontent.com/MassoudKargar/MassoudKargar/6f9ef27589228e9336a6d2f718c52699c6fc9697/Massoud_Kargar_Resume_EN_Modern.pdf"></a>
+  👉 <a href="https://raw.githubusercontent.com/MassoudKargar/MassoudKargar/6f9ef27589228e9336a6d2f718c52699c6fc9697/Massoud_Kargar_Resume_EN_Modern.pdf">Massoud Kargar Resume English</a>
 
-  👉 <a href="https://raw.githubusercontent.com/MassoudKargar/MassoudKargar/6f9ef27589228e9336a6d2f718c52699c6fc9697/Massoud_Kargar_Resume_FA_Modern.pdf"></a>
+  👉 <a href="https://raw.githubusercontent.com/MassoudKargar/MassoudKargar/6f9ef27589228e9336a6d2f718c52699c6fc9697/Massoud_Kargar_Resume_FA_Modern.pdf">Massoud Kargar Resume Farsi</a>
 
 ---
 
