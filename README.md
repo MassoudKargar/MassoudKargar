@@ -7,6 +7,7 @@
 *Building scalable, distributed, and maintainable backend systems for 6+ years*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/masoudkargar)
+[![Resume](https://img.shields.io/badge/Resume-DC3545?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/MassoudKargar/MassoudKargar/main/resume.pdf)
 [![Website](https://img.shields.io/badge/Website-1A56A0?style=for-the-badge&logo=googlechrome&logoColor=white)](https://masoudkargar.com)
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://massoudkargar.ir)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Masoud_kargar)
@@ -108,11 +109,11 @@ Over the past 6+ years I've worked across startups and enterprises — writing A
 ## 💼 Work Experience Snapshot
 
 ```
-Senior .NET Backend Developer  │  Rasta Novin Aria          │  2025
-Senior Backend Developer       │  Setigh Faraofog           │  2024 – 2025
-Senior Backend Developer       │  Freelance / Remote        │  2023 – 2024
-.NET Backend Developer         │  Behineh Kavan Keyfiat     │  2021 – 2023
-Back-End Developer             │  Freelance                 │  2019 – 2021
+Senior .NET Backend Developer  │  Rasta Novin Aria       │  Apr 2025 – May 2026
+Senior Backend Developer       │  Setigh Fara Ofogh      │  Oct 2024 – Mar 2025
+Senior Backend Developer       │  Freelance / Remote     │  Jul 2023 – Oct 2024
+.NET Backend Developer         │  Behineh Kavan Keyfiat  │  Jul 2021 – Jul 2023
+Back-End Developer             │  Freelance              │  Mar 2020 – Jul 2021
 ```
 
 ---
@@ -123,6 +124,7 @@ I'm always open to interesting projects, remote opportunities, or just a good co
 
 > **Email:** massoudkargar.web@gmail.com  
 > **LinkedIn:** [linkedin.com/in/masoudkargar](https://www.linkedin.com/in/masoudkargar)  
+> **Resume:** [Download PDF](https://raw.githubusercontent.com/MassoudKargar/MassoudKargar/main/resume.pdf)  
 > **Website:** [masoudkargar.com](https://masoudkargar.com)
 
 ---
