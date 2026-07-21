@@ -123,7 +123,7 @@ Back-End Developer             │  Freelance              │  Mar 2020 – Jul
 I'm always open to interesting projects, remote opportunities, or just a good conversation about backend architecture.
 
 > **Email:** massoudkargar.web@gmail.com  
-> **LinkedIn:** [linkedin.com/in/masoudkargar](https://www.linkedin.com/in/masoudkargar)  
+> **LinkedIn:** [linkedin.com/in/masoudkargar](https://www.linkedin.com/in/maoudkargar/)  
 > **Resume:** [Download PDF](https://github.com/MassoudKargar/MassoudKargar/blob/main/Masoud_Kargar_Resume.pdf)  
 > **Website:** [masoudkargar.com](https://masoudkargar.com)
 
