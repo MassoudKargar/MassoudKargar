@@ -124,7 +124,7 @@ I'm always open to interesting projects, remote opportunities, or just a good co
 
 > **Email:** massoudkargar.web@gmail.com  
 > **LinkedIn:** [linkedin.com/in/masoudkargar](https://www.linkedin.com/in/masoudkargar)  
-> **Resume:** [Download PDF](https://raw.githubusercontent.com/MassoudKargar/MassoudKargar/main/resume.pdf)  
+> **Resume:** [Download PDF](https://github.com/MassoudKargar/MassoudKargar/blob/main/Masoud_Kargar_Resume.pdf)  
 > **Website:** [masoudkargar.com](https://masoudkargar.com)
 
 ---
